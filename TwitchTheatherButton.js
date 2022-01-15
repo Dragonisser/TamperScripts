@@ -16,7 +16,7 @@ GM_addStyle('.theather-button { background-color: transparent; color: white;  cu
     function prependButton() {
         let videoUrl = window.location.href.split("=")[1];
         let theaterUrl = "'https://twitchtheater.tv/v=" + videoUrl + "'";
-        let nav = jQuery('#top-level-buttons-computed');
+        let nav = jQuery('div#primary-inner').find('div#info-contents').find('div#menu').find('div#top-level-buttons-computed');
         let button = '<button class="theather-button" onclick="window.open(' + theaterUrl +')">Twitch Theather</button>';
 
         if (nav) {
