@@ -1,6 +1,6 @@
 // ==UserScript==
 // @name         Twitter Switcher
-// @namespace    http://tampermonkey.net/
+// @namespace    https://github.com/Dragonisser/TamperScripts/blob/master/TwitterSwitcher.user.js
 // @version      1.1
 // @description  Automatically switches to the "Following" Tab. Thank you twitter for yet another pointless change.
 // @author       Dragonisser
