@@ -7,8 +7,8 @@
 // @match        https://twitter.com/*
 // @icon         https://www.google.com/s2/favicons?sz=64&domain=twitter.com
 // @grant        none
-// @updateURL    https://github.com/Dragonisser/TamperScripts/blob/master/TwitterSwitcher.js
-// @downloadURL  https://github.com/Dragonisser/TamperScripts/blob/master/TwitterSwitcher.js
+// @updateURL    https://raw.githubusercontent.com/Dragonisser/TamperScripts/master/TwitterSwitcher.js
+// @downloadURL  https://raw.githubusercontent.com/Dragonisser/TamperScripts/master/TwitterSwitcher.js
 // ==/UserScript==
 
 (function () {
